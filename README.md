@@ -1,6 +1,6 @@
 # Telegram Media Bot
 
-This Telegram bot allows whitelisted users to search for TV shows and movies, view their posters, and request them from a media library. The bot uses the Telegram Bot API and integrates with an external media library API.
+This Telegram bot allows whitelisted users to search for TV shows and movies, view their posters, and request them from overseerr. The bot uses the Telegram Bot API and integrates with overseerr API.
 
 ## Features
 
@@ -16,7 +16,7 @@ This Telegram bot allows whitelisted users to search for TV shows and movies, vi
 
 - Python 3.9+
 - A Telegram Bot Token
-- Access to a media library API
+- Access to overseerr API
 - Docker (optional, for containerized deployment)
 
 ## Environment Variables
