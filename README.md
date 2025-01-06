@@ -92,11 +92,3 @@ Logs are stored in `telegram_bot.log` and include timestamps, user actions, and 
 4. **Request Media**:
    - For TV shows, users specify seasons to download.
    - For movies, the request is processed immediately.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-For any issues or feature requests, please open an issue in the repository.
